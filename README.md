@@ -32,6 +32,12 @@ A full-featured desktop application for managing warehouses, built with **C#**, 
 - `Models/` - Entity Framework models
 - `DB/` - SQL scripts or database files (if any)
 
+  ## 📷 Screenshots
+  - sql server 
+  ![image](https://github.com/user-attachments/assets/639c13e9-7237-428b-8e0c-f7f4f53e26e8)
+
+
+
 ## 🚀 Getting Started
 
 1. Clone the repository
