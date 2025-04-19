@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\entityframework\\CodeFirst\\users\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|d:\\iti\\entityframework\\codefirst\\users\\users\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|solutionrelative:users\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|d:\\iti\\entityframework\\codefirst\\users\\users\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|solutionrelative:users\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|d:\\iti\\entityframework\\codefirst\\users\\users\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|solutionrelative:users\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|d:\\iti\\entityframework\\codefirst\\users\\users\\migrations\\20250307194011_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|solutionrelative:users\\migrations\\20250307194011_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|d:\\iti\\entityframework\\codefirst\\users\\users\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|solutionrelative:users\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|d:\\iti\\entityframework\\codefirst\\users\\users\\migrations\\20250306204734_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|solutionrelative:users\\migrations\\20250306204734_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|d:\\iti\\entityframework\\codefirst\\users\\users\\migrations\\20250306204512_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|solutionrelative:users\\migrations\\20250306204512_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|d:\\iti\\entityframework\\codefirst\\users\\users\\models\\itiprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|solutionrelative:users\\models\\itiprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|d:\\iti\\entityframework\\codefirst\\users\\users\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|solutionrelative:users\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|d:\\iti\\entityframework\\codefirst\\users\\users\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42FD358-72CF-4059-9E1B-43C85B659DB6}|users\\users.csproj|solutionrelative:users\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 860,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Form6.cs",
+              "RelativeDocumentMoniker": "users\\Form6.cs",
+              "ToolTip": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Form6.cs",
+              "RelativeToolTip": "users\\Form6.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAASwLEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:49:59.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Form4.cs",
+              "RelativeDocumentMoniker": "users\\Form4.cs",
+              "ToolTip": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Form4.cs",
+              "RelativeToolTip": "users\\Form4.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAASwG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:40:01.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Form1.cs",
+              "RelativeDocumentMoniker": "users\\Form1.cs",
+              "ToolTip": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Form1.cs [Design]",
+              "RelativeToolTip": "users\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:57:36.105Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\models\\Product.cs",
+              "RelativeDocumentMoniker": "users\\models\\Product.cs",
+              "ToolTip": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\models\\Product.cs",
+              "RelativeToolTip": "users\\models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:52:38.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250307194011_v3.cs",
+              "DocumentMoniker": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Migrations\\20250307194011_v3.cs",
+              "RelativeDocumentMoniker": "users\\Migrations\\20250307194011_v3.cs",
+              "ToolTip": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Migrations\\20250307194011_v3.cs",
+              "RelativeToolTip": "users\\Migrations\\20250307194011_v3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:50:38.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250306204734_v2.cs",
+              "DocumentMoniker": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Migrations\\20250306204734_v2.cs",
+              "RelativeDocumentMoniker": "users\\Migrations\\20250306204734_v2.cs",
+              "ToolTip": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Migrations\\20250306204734_v2.cs",
+              "RelativeToolTip": "users\\Migrations\\20250306204734_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:50:28.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250306204512_v1.cs",
+              "DocumentMoniker": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Migrations\\20250306204512_v1.cs",
+              "RelativeDocumentMoniker": "users\\Migrations\\20250306204512_v1.cs",
+              "ToolTip": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\Migrations\\20250306204512_v1.cs",
+              "RelativeToolTip": "users\\Migrations\\20250306204512_v1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:49:03.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITIProjectContext.cs",
+              "DocumentMoniker": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\models\\ITIProjectContext.cs",
+              "RelativeDocumentMoniker": "users\\models\\ITIProjectContext.cs",
+              "ToolTip": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\models\\ITIProjectContext.cs",
+              "RelativeToolTip": "users\\models\\ITIProjectContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:47:21.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "users\\models\\Warehouse.cs",
+              "ToolTip": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\models\\Warehouse.cs",
+              "RelativeToolTip": "users\\models\\Warehouse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:44:39.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\models\\User.cs",
+              "RelativeDocumentMoniker": "users\\models\\User.cs",
+              "ToolTip": "D:\\ITI\\entityframework\\CodeFirst\\users\\users\\models\\User.cs",
+              "RelativeToolTip": "users\\models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:44:22.252Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 423,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
